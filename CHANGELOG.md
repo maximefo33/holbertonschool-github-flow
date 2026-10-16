@@ -1,3 +1,3 @@
 ## v1.1.0
-   - <bullet describing the introduction and history updates>
-   - <bullet describing the conflict resolution in docs/collaboration.md>
+- Added detailed content to the introduction and project history documentation.
+- Resolved merging conflicts in the docs/collaboration.md file to improve clarity.
